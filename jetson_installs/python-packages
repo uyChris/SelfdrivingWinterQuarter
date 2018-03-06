@@ -1,0 +1,4 @@
+#Python Packages
+
+sudo apt-get install python3-scipy
+sudo pip3 install keras
